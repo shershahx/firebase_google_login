@@ -27,9 +27,9 @@ Users can log in with their Google account, see their profile name, and log out 
 
 ## 📂 Project Structure
 lib/
-│── main.dart # Entry point, initializes Firebase
-│── auth_service.dart # Google sign-in & sign-out logic
-│── home_screen.dart # UI for login/logout
+# │── main.dart # Entry point, initializes Firebase
+# │── auth_service.dart # Google sign-in & sign-out logic
+# │── home_screen.dart # UI for login/logout
 
 
 ---
